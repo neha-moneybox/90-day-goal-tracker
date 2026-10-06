@@ -1,0 +1,129 @@
+{
+  "owner": "Neha Bose",
+  "role": "UX Research, Moneybox",
+  "start": "2026-09-21",
+  "updated": "2026-10-06",
+  "_how_to_edit": "Edit the goals below and commit. status is one of: done, progress, planned, idea. area is one of: delivery, capacity, influence. horizon is 30, 60 or 90. Goals show in the order listed.",
+  "goals": [
+    {
+      "area": "delivery",
+      "horizon": "30",
+      "title": "Cash ISA £12k cap survey",
+      "status": "done",
+      "detail": "Report and slide delivered.",
+      "next": ""
+    },
+    {
+      "area": "delivery",
+      "horizon": "30",
+      "title": "Business Saver: finalise design and fielding approach",
+      "status": "progress",
+      "detail": "Survey design, budget and how it's fielded.",
+      "next": "Agree sample size once Qualtrics quotes arrive."
+    },
+    {
+      "area": "delivery",
+      "horizon": "30",
+      "title": "Aurora survey: analysis with Anna",
+      "status": "progress",
+      "detail": "Help Anna analyse the survey and help her with quant upskilling",
+      "next": "Working session today using the survey analysis workflow."
+    },
+    {
+      "area": "delivery",
+      "horizon": "30",
+      "title": "Aurora chat analysis: trial pipeline",
+      "status": "progress",
+      "detail": "Pipeline built; run a trial and gather feedback.",
+      "next": "Run once the API key is set up (asked Carl)."
+    },
+    {
+      "area": "delivery",
+      "horizon": "60",
+      "title": "Business Saver: programme and start fieldwork",
+      "status": "planned",
+      "detail": "Build in Qualtrics and start data collection (TBC).",
+      "next": ""
+    },
+    {
+      "area": "delivery",
+      "horizon": "60",
+      "title": "Aurora chat analysis: share widely",
+      "status": "planned",
+      "detail": "Present to Insights and other teams; gather feedback.",
+      "next": ""
+    },
+    {
+      "area": "delivery",
+      "horizon": "90",
+      "title": "Business Saver: analysis and report",
+      "status": "planned",
+      "detail": "TBC",
+      "next": ""
+    },
+    {
+      "area": "delivery",
+      "horizon": "90",
+      "title": "Aurora chat analysis: ship it",
+      "status": "planned",
+      "detail": "TBC",
+      "next": ""
+    },
+    {
+      "area": "capacity",
+      "horizon": "30",
+      "title": "Survey design workflow",
+      "status": "done",
+      "detail": "Built and tested as a Claude skill.",
+      "next": "Demo at UXR weekly, Thu 8 Oct."
+    },
+    {
+      "area": "capacity",
+      "horizon": "30",
+      "title": "Survey analysis workflow",
+      "status": "done",
+      "detail": "Built and tested as a Claude skill.",
+      "next": "Demo at UXR weekly, Thu 8 Oct."
+    },
+    {
+      "area": "capacity",
+      "horizon": "60",
+      "title": "Refine and embed the workflows",
+      "status": "planned",
+      "detail": "Use on live projects, gather feedback, improve.",
+      "next": ""
+    },
+    {
+      "area": "capacity",
+      "horizon": "90",
+      "title": "Broader Claude Code adoption",
+      "status": "planned",
+      "detail": "Shared ways of working for research.",
+      "next": ""
+    },
+    {
+      "area": "capacity",
+      "horizon": "90",
+      "title": "Build a research knowledge workspace",
+      "status": "planned",
+      "detail": "",
+      "next": ""
+    },
+    {
+      "area": "influence",
+      "horizon": "30",
+      "title": "Share work at UXR weekly",
+      "status": "progress",
+      "detail": "Research Radar idea (23 Sep); survey skills demo (Thu 8 Oct).",
+      "next": ""
+    },
+    {
+      "area": "influence",
+      "horizon": "90",
+      "title": "Self-serve Research Radar prototype (TBC)",
+      "status": "idea",
+      "detail": "",
+      "next": ""
+    }
+  ]
+}
