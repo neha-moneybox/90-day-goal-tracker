@@ -2,7 +2,7 @@
   "owner": "Neha Bose",
   "role": "UX Research, Moneybox",
   "start": "2026-09-21",
-  "updated": "2026-10-06",
+  "updated": "2026-10-13",
   "_how_to_edit": "Edit the goals below and commit. status is one of: done, progress, planned, idea. area is one of: delivery, capacity, influence. horizon is 30, 60 or 90. Goals show in the order listed.",
   "goals": [
     {
@@ -25,17 +25,25 @@
       "area": "delivery",
       "horizon": "30",
       "title": "Aurora survey: analysis with Anna",
-      "status": "progress",
-      "detail": "Help Anna analyse the survey and help her with quant upskilling",
-      "next": "Working session today using the survey analysis workflow."
+      "status": "done",
+      "detail": "Survey analysed with Anna using the survey analysis workflow; report drafted and handed to Anna (9 Oct).",
+      "next": "Walkthrough with the product team, 13 Oct."
+    },
+    {
+      "area": "delivery",
+      "horizon": "30",
+      "title": "Aurora launch: usage analysis",
+      "status": "done",
+      "detail": "Who used Aurora, channel performance and funnel drop-off from launch and app data; report finished.",
+      "next": "Walkthrough with the product team, 13 Oct."
     },
     {
       "area": "delivery",
       "horizon": "30",
       "title": "Aurora chat analysis: trial pipeline",
       "status": "progress",
-      "detail": "Pipeline built; run a trial and gather feedback.",
-      "next": "Run once the API key is set up (asked Carl)."
+      "detail": "Running via Claude Code (no API cost). Discovery on 334 chats, 21-theme codebook, all 1,671 chats tagged (12 Oct). Results deck drafted.",
+      "next": "Independent human validation of the model's tags; quick check of two challenge themes."
     },
     {
       "area": "delivery",
@@ -51,7 +59,7 @@
       "title": "Aurora chat analysis: share widely",
       "status": "planned",
       "detail": "Present to Insights and other teams; gather feedback.",
-      "next": ""
+      "next": "Share the draft deck once validated."
     },
     {
       "area": "delivery",
