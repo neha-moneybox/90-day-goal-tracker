@@ -18,8 +18,8 @@
       "horizon": "30",
       "title": "Business Saver: finalise design and fielding approach",
       "status": "progress",
-      "detail": "Survey design, budget and how it's fielded.",
-      "next": "Agree sample size once Qualtrics quotes arrive."
+      "detail": "Survey design, budget and how it's fielded. Qualtrics quotes in; weighing them against alternatives.",
+      "next": "Decide on the fielding route, then agree sample size."
     },
     {
       "area": "delivery",
@@ -82,16 +82,32 @@
       "horizon": "30",
       "title": "Survey design workflow",
       "status": "done",
-      "detail": "Built and tested as a Claude skill.",
-      "next": "Demo at UXR weekly, Thu 8 Oct."
+      "detail": "Built and tested as a Claude skill; demoed at UXR weekly (8 Oct).",
+      "next": "Team trying it out on their own work."
     },
     {
       "area": "capacity",
       "horizon": "30",
       "title": "Survey analysis workflow",
       "status": "done",
-      "detail": "Built and tested as a Claude skill.",
-      "next": "Demo at UXR weekly, Thu 8 Oct."
+      "detail": "Built and tested as a Claude skill; demoed at UXR weekly (8 Oct).",
+      "next": "Team trying it out on their own work."
+    },
+    {
+      "area": "capacity",
+      "horizon": "30",
+      "title": "AI strategy one-pager and slide",
+      "status": "done",
+      "detail": "One-pager and slide on how research uses AI (second brain, AI-assisted workflows, self-serve).",
+      "next": ""
+    },
+    {
+      "area": "capacity",
+      "horizon": "30",
+      "title": "Claude Code + Python session for the team",
+      "status": "progress",
+      "detail": "Hands-on tutorial: build a survey analysis notebook one cell at a time, on synthetic data.",
+      "next": "Run the session, 13 Oct (moved from Fri 9 Oct)."
     },
     {
       "area": "capacity",
@@ -99,7 +115,7 @@
       "title": "Refine and embed the workflows",
       "status": "planned",
       "detail": "Use on live projects, gather feedback, improve.",
-      "next": ""
+      "next": "Collect feedback from the team's first uses."
     },
     {
       "area": "capacity",
@@ -121,8 +137,8 @@
       "area": "influence",
       "horizon": "30",
       "title": "Share work at UXR weekly",
-      "status": "progress",
-      "detail": "Research Radar idea (23 Sep); survey skills demo (Thu 8 Oct).",
+      "status": "done",
+      "detail": "Research Radar idea (23 Sep); survey skills demo (8 Oct).",
       "next": ""
     },
     {
