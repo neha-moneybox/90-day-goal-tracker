@@ -16,10 +16,10 @@
     {
       "area": "delivery",
       "horizon": "30",
-      "title": "Business Saver: finalise design and fielding approach",
-      "status": "progress",
-      "detail": "Survey design, budget and how it's fielded. Qualtrics quotes in; weighing them against alternatives.",
-      "next": "Decide on the fielding route, then agree sample size."
+      "title": "Business Saver: survey redesign and analysis plan",
+      "status": "done",
+      "detail": "Survey redesigned; sampling and analysis plans written; fielding options and quotes compared.",
+      "next": ""
     },
     {
       "area": "delivery",
@@ -56,10 +56,10 @@
     {
       "area": "delivery",
       "horizon": "60",
-      "title": "Business Saver: programme and start fieldwork",
-      "status": "planned",
-      "detail": "Build in Qualtrics and start data collection (TBC).",
-      "next": ""
+      "title": "Business Saver: agree fielding route and funding",
+      "status": "progress",
+      "detail": "Blocked on funding. Once the fielding route and budget are agreed, build the survey and start fieldwork.",
+      "next": "Agree the fielding route and funding."
     },
     {
       "area": "delivery",
@@ -82,7 +82,7 @@
       "horizon": "90",
       "title": "Business Saver: analysis and report",
       "status": "planned",
-      "detail": "TBC",
+      "detail": "Fieldwork, analysis and report, once funding is agreed (TBC).",
       "next": ""
     },
     {
