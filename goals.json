@@ -42,8 +42,8 @@
       "horizon": "30",
       "title": "Fixed rate saver: who opens but doesn't fund",
       "status": "progress",
-      "detail": "Phase 1 account and behavioural data analysis in Databricks for the product and Customer Excellence leads. Report drafted and accuracy-reviewed (20 Oct).",
-      "next": "Check how money moves are recorded with product, then share and decide on follow-up research."
+      "detail": "Almost done. Phase 1 account and behavioural data analysis in Databricks; report drafted and accuracy-reviewed (20 Oct).",
+      "next": "Blocked on Claude usage limits. Then check with product how money moves are recorded, share, and decide on follow-up research."
     },
     {
       "area": "delivery",
@@ -178,7 +178,7 @@
       "horizon": "30",
       "title": "Share work at UXR weekly",
       "status": "done",
-      "detail": "Research Radar idea (23 Sep); survey skills demo (8 Oct).",
+      "detail": "Research Radar idea (23 Sep); survey skills demo (8 Oct); Claude Code + Python demo.",
       "next": ""
     },
     {
@@ -188,6 +188,14 @@
       "status": "progress",
       "detail": "Aurora and fixed rate work combine customer evidence with Databricks data, with input from Data & Insight and the Aurora build team.",
       "next": "Turn this into a repeatable way of working the team can use."
+    },
+    {
+      "area": "influence",
+      "horizon": "60",
+      "title": "AI strategy and workflows presentation",
+      "status": "planned",
+      "detail": "Present the AI strategy and research workflows at the UX Wednesdays meeting.",
+      "next": "Scheduled for 29 Oct."
     },
     {
       "area": "influence",
