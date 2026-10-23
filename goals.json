@@ -27,7 +27,7 @@
       "title": "Aurora survey: analysis with Anna",
       "status": "done",
       "detail": "Survey analysed with Anna using the survey analysis workflow; report drafted and handed to Anna (9 Oct).",
-      "next": "Walkthrough with the product team, 13 Oct."
+      "next": "Report shared and walkthrough done; it informed a product decision."
     },
     {
       "area": "delivery",
@@ -35,7 +35,7 @@
       "title": "Aurora launch: usage analysis",
       "status": "done",
       "detail": "Who used Aurora, channel performance and funnel drop-off from launch and app data; report finished.",
-      "next": "Walkthrough with the product team, 13 Oct."
+      "next": "Report shared and walkthrough done; it informed a product decision."
     },
     {
       "area": "delivery",
@@ -51,7 +51,7 @@
       "title": "Aurora chat analysis: trial pipeline",
       "status": "done",
       "detail": "Rebuilt as a quality framework for each chat: what the customer came for, what Aurora did, and whether they got it (12 aims, 25 behaviours). LLM-coded a random pilot of 527 chats, with rule-based checks on all chats and links to plan data. Coding consistency is checked automatically.",
-      "next": "Human validation of the coding."
+      "next": ""
     },
     {
       "area": "delivery",
@@ -72,10 +72,10 @@
     {
       "area": "delivery",
       "horizon": "60",
-      "title": "Aurora chat analysis: share widely",
-      "status": "progress",
+      "title": "Aurora chat quality pilot: share results",
+      "status": "done",
       "detail": "Pilot results presented to the Guidance product team (23 Oct). The team is fixing two plan-decline issues next sprint.",
-      "next": "Split the chats before and after the July change; join production error logs with the build team. Broader analysis on hold until the team agrees Aurora's direction."
+      "next": ""
     },
     {
       "area": "delivery",
@@ -88,9 +88,9 @@
     {
       "area": "delivery",
       "horizon": "90",
-      "title": "Aurora chat analysis: ship it",
+      "title": "Aurora chat analysis: next phase (TBC)",
       "status": "planned",
-      "detail": "TBC",
+      "detail": "On hold until the team agrees Aurora's direction. Could include working with engineering on production logs, validation, a V2 re-run and synthetic users.",
       "next": ""
     },
     {
@@ -115,7 +115,7 @@
       "title": "Survey design workflow",
       "status": "done",
       "detail": "Built and tested as a Claude skill; demoed at UXR weekly (8 Oct).",
-      "next": "Team trying it out on their own work."
+      "next": "Team has trialled it."
     },
     {
       "area": "capacity",
@@ -123,7 +123,7 @@
       "title": "Survey analysis workflow",
       "status": "done",
       "detail": "Built and tested as a Claude skill; demoed at UXR weekly (8 Oct).",
-      "next": "Team trying it out on their own work."
+      "next": "Team has trialled it."
     },
     {
       "area": "capacity",
@@ -137,9 +137,9 @@
       "area": "capacity",
       "horizon": "30",
       "title": "Claude Code + Python session for the team",
-      "status": "progress",
+      "status": "done",
       "detail": "Hands-on tutorial: build a survey analysis notebook one cell at a time, on synthetic data.",
-      "next": "Run the session, 13 Oct (moved from Fri 9 Oct)."
+      "next": ""
     },
     {
       "area": "capacity",
@@ -151,27 +151,27 @@
     },
     {
       "area": "capacity",
-      "horizon": "90",
-      "title": "Broader Claude Code adoption",
+      "horizon": "60",
+      "title": "Extend the UXR second brain",
+      "status": "progress",
+      "detail": "Started: a daily Confluence digest of updates across the 8 product areas, mapped to where research could help. Extending it with more of the team's research knowledge.",
+      "next": "Get the team's feedback; add a research evidence layer."
+    },
+    {
+      "area": "capacity",
+      "horizon": "60",
+      "title": "Synthetic users: approach and limits",
       "status": "planned",
-      "detail": "Shared ways of working for research.",
+      "detail": "Work out how we could build synthetic users per segment from real chats, and when they can and can't stand in for real customers. Joining a cross-team synthetic data group.",
       "next": ""
     },
     {
       "area": "capacity",
       "horizon": "90",
-      "title": "Build a research knowledge workspace",
-      "status": "progress",
-      "detail": "First part live: a daily Confluence digest of updates across the 8 product areas, with where research could help (14 Oct pilot).",
-      "next": "Get the team's feedback; add a research evidence layer."
-    },
-    {
-      "area": "capacity",
-      "horizon": "90",
-      "title": "Synthetic users for Aurora testing",
-      "status": "idea",
-      "detail": "Synthetic users for each segment, built from real chats, to test Aurora. Joining a cross-team synthetic data group.",
-      "next": "Count chats per segment; agree the approach with the group."
+      "title": "Broader Claude Code adoption",
+      "status": "planned",
+      "detail": "Shared ways of working for research.",
+      "next": ""
     },
     {
       "area": "influence",
