@@ -55,6 +55,14 @@
     },
     {
       "area": "delivery",
+      "horizon": "30",
+      "title": "Aurora chat quality pilot: share results",
+      "status": "done",
+      "detail": "Pilot results presented to the Guidance product team (23 Oct). The team is fixing two plan-decline issues next sprint.",
+      "next": ""
+    },
+    {
+      "area": "delivery",
       "horizon": "60",
       "title": "Business Saver: agree fielding route and funding",
       "status": "progress",
@@ -68,14 +76,6 @@
       "status": "progress",
       "detail": "Research plan and data plan written (22 Oct). Phase 1 data analysis underway in Databricks.",
       "next": "Finish Phase 1 and agree what to investigate next."
-    },
-    {
-      "area": "delivery",
-      "horizon": "60",
-      "title": "Aurora chat quality pilot: share results",
-      "status": "done",
-      "detail": "Pilot results presented to the Guidance product team (23 Oct). The team is fixing two plan-decline issues next sprint.",
-      "next": ""
     },
     {
       "area": "delivery",
