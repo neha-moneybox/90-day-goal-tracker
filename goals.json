@@ -2,7 +2,7 @@
   "owner": "Neha Bose",
   "role": "UX Research, Moneybox",
   "start": "2026-09-21",
-  "updated": "2026-10-13",
+  "updated": "2026-10-23",
   "_how_to_edit": "Edit the goals below and commit. status is one of: done, progress, planned, idea. area is one of: delivery, capacity, influence. horizon is 30, 60 or 90. Goals show in the order listed.",
   "goals": [
     {
@@ -40,10 +40,18 @@
     {
       "area": "delivery",
       "horizon": "30",
-      "title": "Aurora chat analysis: trial pipeline",
+      "title": "Fixed rate saver: who opens but doesn't fund",
       "status": "progress",
-      "detail": "Running via Claude Code (no API cost). Discovery on 334 chats, 21-theme codebook, all 1,671 chats tagged (12 Oct). Results deck drafted.",
-      "next": "Independent human validation of the model's tags; quick check of two challenge themes."
+      "detail": "Phase 1 account and behavioural data analysis in Databricks for the product and Customer Excellence leads. Report drafted and accuracy-reviewed (20 Oct).",
+      "next": "Check how money moves are recorded with product, then share and decide on follow-up research."
+    },
+    {
+      "area": "delivery",
+      "horizon": "30",
+      "title": "Aurora chat analysis: trial pipeline",
+      "status": "done",
+      "detail": "Rebuilt as a quality framework for each chat: what the customer came for, what Aurora did, and whether they got it (12 aims, 25 behaviours). LLM-coded a random pilot of 527 chats, with rule-based checks on all chats and links to plan data. Coding consistency is checked automatically.",
+      "next": "Human validation of the coding."
     },
     {
       "area": "delivery",
@@ -56,10 +64,18 @@
     {
       "area": "delivery",
       "horizon": "60",
+      "title": "Mortgage take-up after a LISA house purchase",
+      "status": "progress",
+      "detail": "Research plan and data plan written (22 Oct). Phase 1 data analysis underway in Databricks.",
+      "next": "Finish Phase 1 and agree what to investigate next."
+    },
+    {
+      "area": "delivery",
+      "horizon": "60",
       "title": "Aurora chat analysis: share widely",
-      "status": "planned",
-      "detail": "Present to Insights and other teams; gather feedback.",
-      "next": "Share the draft deck once validated."
+      "status": "progress",
+      "detail": "Pilot results presented to the Guidance product team (23 Oct). The team is fixing two plan-decline issues next sprint.",
+      "next": "Split the chats before and after the July change; join production error logs with the build team. Broader analysis on hold until the team agrees Aurora's direction."
     },
     {
       "area": "delivery",
@@ -75,6 +91,22 @@
       "title": "Aurora chat analysis: ship it",
       "status": "planned",
       "detail": "TBC",
+      "next": ""
+    },
+    {
+      "area": "delivery",
+      "horizon": "90",
+      "title": "Qualtrics renewal recommendation",
+      "status": "planned",
+      "detail": "A clear recommendation on Qualtrics and the survey capability we need. Builds on the Business Saver fielding comparison.",
+      "next": ""
+    },
+    {
+      "area": "delivery",
+      "horizon": "90",
+      "title": "Feed findings into User Needs and Dovetail",
+      "status": "planned",
+      "detail": "Capture what the Aurora, fixed rate and survey work has taught us so the team can find and reuse it.",
       "next": ""
     },
     {
@@ -129,9 +161,17 @@
       "area": "capacity",
       "horizon": "90",
       "title": "Build a research knowledge workspace",
-      "status": "planned",
-      "detail": "",
-      "next": ""
+      "status": "progress",
+      "detail": "First part live: a daily Confluence digest of updates across the 8 product areas, with where research could help (14 Oct pilot).",
+      "next": "Get the team's feedback; add a research evidence layer."
+    },
+    {
+      "area": "capacity",
+      "horizon": "90",
+      "title": "Synthetic users for Aurora testing",
+      "status": "idea",
+      "detail": "Synthetic users for each segment, built from real chats, to test Aurora. Joining a cross-team synthetic data group.",
+      "next": "Count chats per segment; agree the approach with the group."
     },
     {
       "area": "influence",
@@ -140,6 +180,14 @@
       "status": "done",
       "detail": "Research Radar idea (23 Sep); survey skills demo (8 Oct).",
       "next": ""
+    },
+    {
+      "area": "influence",
+      "horizon": "60",
+      "title": "Research and Data & Insight on live questions",
+      "status": "progress",
+      "detail": "Aurora and fixed rate work combine customer evidence with Databricks data, with input from Data & Insight and the Aurora build team.",
+      "next": "Turn this into a repeatable way of working the team can use."
     },
     {
       "area": "influence",
